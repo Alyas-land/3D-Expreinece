@@ -19,8 +19,9 @@ My first 3D model created in Blender.
 ### 🧑‍🎨 Anime Character *(Work in Progress)*
 <figure align="center">
   <img src="Anime-Character/reference.jpg" alt="Reference Character" />
-  <figcaption>طرح رفرنس</figcaption>
+  <figcaption>Reference</figcaption>
 </figure>
+
 A stylized 3D anime character currently under development.
 
 **Focus Areas:**
