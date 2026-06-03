@@ -20,9 +20,9 @@ My first 3D model created in Blender.
 <p align="center">
   <img src="Anime-Character/reference.jpg" alt="Reference Character" />
   <br>
-  <sub>طرح رفرنس</sub>
+  <sub>Reference Character</sub>
 </p>
-####A stylized 3D anime character currently under development.
+A stylized 3D anime character currently under development.
 
 **Focus Areas:**
 
