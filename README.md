@@ -17,7 +17,11 @@ My first 3D model created in Blender.
 * Understanding topology basics
 
 ### 🧑‍🎨 Anime Character *(Work in Progress)*
-
+<p align="center">
+  <img src="Anime-Character/reference.jpg" alt="Reference Character" />
+  <br>
+  <sub>Reference Character</sub>
+</p>
 A stylized 3D anime character currently under development.
 
 **Focus Areas:**
